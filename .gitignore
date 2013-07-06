@@ -1,7 +1,7 @@
 *.o
 Makefile
-server/Miroslav_Server
-client/Miroslav
+server/miroslav_server
+client/miroslav_client
 server/log.txt
 moc_*.cpp
 qrc_resource.cpp

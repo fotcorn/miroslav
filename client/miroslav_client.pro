@@ -3,7 +3,6 @@
 ######################################################################
 
 TEMPLATE = app
-TARGET = Miroslav
 DEPENDPATH += . res src
 INCLUDEPATH += .
 
