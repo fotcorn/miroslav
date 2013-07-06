@@ -6,4 +6,4 @@ The server listens on port 33333 on all IP-Adresses and the password is 'passwor
 
 Features:
 * Password protected server (currently hardcoded to 'password')
-* Bold/Cursiv/Underlined + Colore message formatting
+* Bold/Cursiv/Underlined + Color message formatting
