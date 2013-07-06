@@ -1,6 +1,6 @@
-You need QtCore, QtGui and QtNetwork libraries installed.
+You need QtCore, QtNetwork libraries installed.
 
 Use Qt Creator to compile the project or execute following commands in a terminal:
 qmake
 make
-lrelease miroslav_client.pro
+
