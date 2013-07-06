@@ -1,0 +1,9 @@
+*.o
+Makefile
+server/Miroslav_Server
+client/Miroslav
+server/log.txt
+moc_*.cpp
+qrc_resource.cpp
+*.qm
+

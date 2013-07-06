@@ -1,0 +1,9 @@
+Miroslav is a TCP based chat server and client written in C++ using the Qt 4 framework.
+
+I've written this Code in 2007 during my apprenticeship.
+
+The server listens on port 33333 on all IP-Adresses and the password is 'password'.
+
+Features:
+* Password protected server (currently hardcoded to 'password')
+* Bold/Cursiv/Underlined + Colore message formatting
